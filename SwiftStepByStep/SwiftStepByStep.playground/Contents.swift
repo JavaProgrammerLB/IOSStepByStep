@@ -64,4 +64,5 @@ func greet(name:String, day:String) -> String {
 var s3 = greet(name:"liubei", day:"1月24日")
 print(s3)
 
+print("hello world")
 
